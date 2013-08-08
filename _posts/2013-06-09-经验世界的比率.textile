@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 经验世界中的数字比率
+title: 经验世界的比率
 ---
 
 h1. {{ page.title }}
