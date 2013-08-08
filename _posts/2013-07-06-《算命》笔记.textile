@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 主啊，这世上的骄傲我已放下，我这一生该怎么度过？
+title: 《算命》笔记
 ---
 
 h1. {{ page.title }}
