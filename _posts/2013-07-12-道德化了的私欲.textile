@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 私欲的道德化
+title: 道德化了的私欲
 ---
 
 h1. {{ page.title }}
