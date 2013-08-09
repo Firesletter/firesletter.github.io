@@ -38,6 +38,9 @@ a {
   color: #00a;
 }
 
+a {font-family: "STXihei", Microsoft YaHei;
+}
+
 a:hover {
   color: black;
 }
