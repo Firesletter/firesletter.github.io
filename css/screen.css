@@ -138,11 +138,10 @@ ul.posts {
         color: #8085C1;
       }
 
-    }
     .site .footer .rss {
-      float: right;
       margin-top: 1.1em;
       margin-right: -.2em;
+      float: right;
     }
 
       .site .footer .rss img {
