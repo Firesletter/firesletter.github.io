@@ -129,15 +129,17 @@ ul.posts {
     overflow: hidden;
   }
 
-    .site .footer .contact {
+    .site .footer .intro {
       float: left;
       margin-right: 3em;
     }
 
-      .site .footer .contact a {
+      .site .footer .intro a {
         color: #8085C1;
       }
-
+    .site .footer .contact {
+      margin: 0 auto;
+    }
     .site .footer .rss {
       margin-top: 1.1em;
       margin-right: -.2em;
