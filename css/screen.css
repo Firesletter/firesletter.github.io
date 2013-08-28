@@ -141,7 +141,7 @@ ul.posts {
       margin: 0 auto;
     }
     .site .footer .rss {
-      margin-top: 0.1em;
+      margin-top: 0;
       margin-right: -.2em;
       float: right;
     }
